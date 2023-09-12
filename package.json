@@ -1,0 +1,16 @@
+{
+  "name": "samples-ts",
+  "version": "1.0.0",
+  "description": "TypeScript samples",
+  "author": "Tadayoshi Sato",
+  "license": "Apache-2.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "typescript": "^5.2.2"
+  }
+}
