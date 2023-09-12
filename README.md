@@ -1,2 +1,8 @@
-# samples-ts
-TypeScript samples
+# TypeScript Samples
+
+## Run
+
+```console
+npm install
+npm test
+```
