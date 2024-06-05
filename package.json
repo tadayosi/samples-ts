@@ -12,6 +12,7 @@
     "format": "prettier . --write"
   },
   "dependencies": {
+    "jolokia.js": "^2.0.1",
     "jquery": "^3.7.1",
     "json-bigint": "^1.0.0"
   },
